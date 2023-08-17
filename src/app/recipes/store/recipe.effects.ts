@@ -9,7 +9,7 @@ import { Store } from '@ngrx/store';
 
 @Injectable()
 export class RecipeEffects {
-  private URL = 'https://ng-course-recipe-book-12345-YOUR-URI.europe-west1.firebasedatabase.app/';
+  private URL = 'https://ng-course-recipe-book-93c81-default-rtdb.europe-west1.firebasedatabase.app/';
   private RECIPES_URL = `${this.URL}recipes.json`;
   private readonly fetchRecipes = createEffect(() => this.actions$
     .pipe(

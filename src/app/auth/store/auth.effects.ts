@@ -26,11 +26,11 @@ export class AuthEffects {
   private USER_DATA_KEY = 'user-data';
   private firebaseConfig = {
     apiKey: "AIzaSyAcM-3-pbCLhVQCvDU20qVzarJOqITpaTc",
-    authDomain: "ng-course-recipe-book-12345.firebaseapp.com",
-    databaseURL: "https://ng-course-recipe-book-12345-YOUR-URI.europe-west1.firebasedatabase.app",
-    projectId: "ng-course-recipe-book-12345",
-    storageBucket: "ng-course-recipe-book-12345.appspot.com",
-    messagingSenderId: "12345-SENDER-ID",
+    authDomain: "ng-course-recipe-book-93c81.firebaseapp.com",
+    databaseURL: "https://ng-course-recipe-book-93c81-default-rtdb.europe-west1.firebasedatabase.app",
+    projectId: "ng-course-recipe-book-93c81",
+    storageBucket: "ng-course-recipe-book-93c81.appspot.com",
+    messagingSenderId: "1018850847226",
     appId: "1:1018850847226:web:f0ec3ce31f73625e6bdc43",
     measurementId: "G-5XK3YFD19J"
   };
